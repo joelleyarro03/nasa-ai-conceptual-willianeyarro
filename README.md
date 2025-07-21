@@ -21,3 +21,33 @@ The goal is to improve the reliability, efficiency, and safety of deep space com
 - `docs/Detailed_Solution_Plan.pdf`: Description of the proposed AI system
 - `docs/Testing_Plan.pdf`: How the system would be tested and evaluated
 - `slides/Presentation.pdf`: Final presentation summary of the full project
+
+
+# 🚀 NASA Space Mission AI Project
+**Implementation Track - ITAI 2372**  
+**Project Title:** AI-Powered Communication Optimization Between Earth and Deep Space Probes  
+**Student Name:** Williane Yarro
+Instructir Name: Anna Rachapudi
+
+
+
+## 📘 Project Overview
+
+This project simulates an AI system that prioritizes communication between a deep space probe and Earth.
+It intelligently manages limitedbandwidth by deciding which data packets (emergency, science, log) should be transmitted first.
+
+The prototype is implemented in Python and available as notebook (`.ipynb`).
+pip install -r requirements.txt
+
+
+## 🔧 Project Setup Instructions
+
+### 📁 1. Clone the Repository
+
+```bash
+git clone https://github.com/joelleyarro03/FP_GROUP01_willianeyarro_ITAI2372.git
+cd FP_GROUP01_Mimica_ITAI2372
+2. Install Required Packages
+pip install -r requirements.txt
+1: Run in Google Colab
+
