@@ -18,6 +18,7 @@ The goal is to improve the reliability, efficiency, and safety of deep space com
 
  ## How to Read This Project
 This repository is structured to guide you through the conceptual development of the AI-powered communication optimization system. The key documents and notebooks are located in the docs/, slides/, and notebooks/ directories:
+
     - `docs/Project_Proposal.pdf`: Provides an introduction to the project and a detailed definition of the communication challenges it aims to solve.
     - `docs/Detailed_Solution_Plan.pdf`: Outlines the proposed AI system architecture, its components, and how they would interact.
     - `docs/Testing_Plan.pdf`: Describes the methodology for testing and evaluating the conceptual system's effectiveness and performance.
