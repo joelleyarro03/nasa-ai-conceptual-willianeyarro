@@ -16,12 +16,14 @@ Prioritize data (example, emergency signals vs. science data)
 
 The goal is to improve the reliability, efficiency, and safety of deep space communications for NASA missions.
 
-## How to Read This Project
-- `docs/Project_Proposal.pdf`: Introduction and problem definition
-- `docs/Detailed_Solution_Plan.pdf`: Description of the proposed AI system
-- `docs/Testing_Plan.pdf`: How the system would be tested and evaluated
-- `slides/Presentation.pdf`: Final presentation summary of the full project
-
+ ## How to Read This Project
+This repository is structured to guide you through the conceptual development of the AI-powered communication optimization system. The key documents and notebooks are located in the docs/, slides/, and notebooks/ directories:
+    - `docs/Project_Proposal.pdf`: Provides an introduction to the project and a detailed definition of the communication challenges it aims to solve.
+    - `docs/Detailed_Solution_Plan.pdf`: Outlines the proposed AI system architecture, its components, and how they would interact.
+    - `docs/Testing_Plan.pdf`: Describes the methodology for testing and evaluating the conceptual system's effectiveness and performance.
+    - `slides/Presentation.pdf`: A summary presentation covering the entire project from problem statement to proposed solution.
+    - `notebooks/communication_simulation_Group_WillianeYarro.ipynb`: Jupyter notebook for communication simulation.
+    - `notebooks/deepspace_group1_.ipynb`: Jupyter notebook related to deep space communication.
 
 # 🚀 NASA Space Mission AI Project
 **Implementation Track - ITAI 2372**  
