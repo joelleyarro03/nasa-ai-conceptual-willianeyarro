@@ -1,6 +1,6 @@
 # nasa-ai-conceptual-willianeyarro
-# NASA Space Mission AI Project
-# Name: WillianeYarro
+# NASA Space Mission AI Project Group 1
+# Name: WillianeYarro - Iman Haamid
 
 ## Track
 Conceptual Design Track
@@ -29,7 +29,7 @@ This repository is structured to guide you through the conceptual development of
 # 🚀 NASA Space Mission AI Project
 **Implementation Track - ITAI 2372**  
 **Project Title:** AI-Powered Communication Optimization Between Earth and Deep Space Probes  
-**Student Name:** Williane Yarro
+**Student Name:** Williane Yarro - Iman Haamid
 Instructir Name: Anna Rachapudi
 
 
